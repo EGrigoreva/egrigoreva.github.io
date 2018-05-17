@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Elena Grigoreva"
-  avatar           : "cv-pic.jpg"
+  avatar           : " cv_pic.jpg"
   bio              : "Researcher @ TUM"
   location         : "Munich, Germany"
   employer         :
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.de/citations?user=41luMGEAAAAJ&hl=en"
   email            : "e.grigoreva@tum.de"
   uri              :
   bitbucket        :
