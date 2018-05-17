@@ -11,35 +11,21 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Computer Science**, Julius-Maximilians-Universität Würzburg, Germany
-* **Exchange Semester**, La Trobe University, Melbourne, Australia
-* **M.S. in Computer Science**, Julius-Maximilians-Universität Würzburg, Germany
-* **Ph.D in Engineering (expected 2018)**, Technical University of Munich 
+* *B.S. in Engineering and Technology, majoring Telecommunications* at Saint Petersburg Electrotechnical University “LETI”, Russia
+* *M.S. in Communications Engineering, Communication Systems*, Technical University of Munich, Germany
+* *Ph.D in Engineering (expected 2018)*, Technical University of Munich, Germany 
 
 Work experience
 ======
-* Summer 2016: **Research Associate Intern**
-  * HPE Labs, Palo Alto, USA
-  * Labs: Networking, Mechanisms and Design
-  * Supervisors: Puneet Sharma, Bernado Huberman
-
-* 2014 - present: **Researcher**
+* 2014 - present: **Doctoral candidate, research and teaching associate**
   * Chair of Communication Networks (LKN) @ Technical University of Munich (TUM)
-  * Duties: Research, Teaching, Infrastructure
-  * Supervisor: Prof. Dr.-Ing. Wolfgang Kellerer
+  * Duties: Research, Teaching
+  * Supervisors: PD Dr.-Ing. habil.  Carmen Mas Machuca and Prof. Dr.-Ing. Wolfgang Kellerer
   
-* Winter 2012: **Short Term Scientific Mission (STSM)**
-  * University of Klagenfurt, Austria
-  * Sponsorship of European Cooperation in Science and Technology (COST), QUALINET
-  * Supervisor: Christian Timmerer
-  
-* 2008 - 2013: **Student Research Assistant**
-  * Chair of Communication Networks (LS3) @ University of Würzburg
-  * Supervisors: Thomas Zinner, Tobias Hoßfeld, Phuoc Tran-Gia
-  
-* 2003 - 2005: Server Administrator, Game Master
-  * Tiscali Games Germany
-  * MMORPG BiosFear (Laghaim)
+* Winter 2015 and 2016: **Scientific Exchange**
+  * University of Melbourne, Australia 
+  * Sponsorship of the German Academic Exchange Service (DAAD)
+  * Supervisor: PD Dr.-Ing. habil.  Carmen Mas Machuca, Prof. Elaine Wang 
   
 Publications
 ======
